@@ -1,4 +1,3 @@
-# app/routers/products.py
 from fastapi import APIRouter, Query
 from typing import Optional
 from app.db import products_collection
